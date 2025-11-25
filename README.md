@@ -14,7 +14,7 @@
 ## Запуск локально
 ```bash
 npm install      # установка зависимостей
-npm run dev      # запуск dev-сервера (http://localhost:5173)
+npm run dev      # запуск локалхост
 npm run build    # сборка production-бандла в dist/
 npm run preview  # предпросмотр собранной версии
 ```
